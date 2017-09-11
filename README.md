@@ -1,2 +1,2 @@
 # safmea.com
-Resources for SAFMEA site
+Author: Petr Cizek
