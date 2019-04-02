@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="539px" height="540px" viewBox="0 0 539 540" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="13.9030612%" y1="50%" x2="115.993416%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#3DA3F4" offset="0%"></stop>
+            <stop stop-color="#6D63EE" offset="100%"></stop>
+            <stop stop-color="#77D9B1" offset="100%"></stop>
+            <stop stop-color="#4BD47F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)">
+            <ellipse id="Oval-Copy" stroke="#CED4D9" cx="230.5" cy="307" rx="230.5" ry="230"></ellipse>
+            <ellipse id="Oval-Copy-2" stroke="#CED4D9" cx="291.5" cy="230" rx="230.5" ry="230"></ellipse>
+            <ellipse id="Oval" fill="url(#linearGradient-1)" cx="307.5" cy="309" rx="230.5" ry="230"></ellipse>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,736 @@
+/**********************
+
+Author:  WHMCSdes
+Template: Bro - Corporate & Business Responsive Template
+Version: 1.0
+Author URI: whmcsdes.com
+
+***************************/
+
+/* Mobile Devices */
+
+@media only screen and (min-width: 160px) and (max-width: 767px) {
+    /* Dedicated Hosting */
+    .hosting-header nav .information .sub {
+        margin: 10px 0;
+        width: 100%;
+    }
+    .hosting-header .server-builder .title {
+        padding: 10px;
+    }
+    .hosting-header nav .logo {
+        text-align: center;
+        margin: 6px auto 31px;
+    }
+    .hosting-header .menu-layout {
+        position: fixed;
+        left: 20px;
+    }
+    .hosting-header .dropdown {
+        margin: 10px auto;
+    }
+    .hosting-header nav .support {
+        margin-left: 0;
+    }
+    .hosting-header .server-builder {
+        padding: 30px 0;
+    }
+    .hosting-plans .plans .plan-block,
+    .hosting-features .plans .plan-block {
+        margin-bottom: 15px;
+    }
+    .hosting-features .tab-content {
+        margin-top: 550px;
+        margin-left: 0;
+    }
+    .hosting-features .tab-content .block {
+        min-height: 0;
+        float: none;
+        width: 100%;
+        margin: 0 0 10px 0;
+    }
+    .hosting-support .support-img {
+        margin-right: auto;
+        float: none;
+        margin-left: auto;
+        display: block;
+        margin-bottom: 30px;
+    }
+    .hosting-support .title {
+        text-align: center;
+    }
+    .hosting-support .title p {
+        width: 100%;
+        margin: 25px 0;
+    }
+    .hosting-support .title a {
+        position: static;
+        float: none;
+    }
+    .hosting-support {
+        margin-top: 100px;
+    }
+    .hosting-footer .footer-links {
+        padding: 30px 0;
+    }
+    .hosting-footer .copyrights {
+        display: block;
+        text-align: center;
+    }
+    .hosting-footer .quick-links {
+        margin: 0 auto 10px;
+        padding: 0;
+        list-style: none;
+        float: none;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+    .hosting-footer .quick-links li {
+        float: none;
+        display: inline-block;
+    }
+    /* SEO */
+    .seo-header {
+        height: auto;
+    }
+    .seo-header .intro .plan .block {
+        margin: 20px 0;
+    }
+    .seo-header .intro .plan .block img {
+        margin: 30px 0 10px;
+    }
+    .seo-header .intro .plan .block h3 {
+        margin: 15px 0;
+    }
+    .seo-header .intro .plan {
+        margin: 50px auto 0;
+    }
+    .seo-partners img {
+        display: block;
+        margin: 22px auto;
+    }
+    .seo-partners {
+        margin: 50px auto 0;
+    }
+    .seo-features .item .title {
+        width: 100%;
+    }
+    .seo-features .item .feature-img {
+        float: none;
+        width: 70%;
+        margin: 0 auto;
+        display: block;
+    }
+    .seo-features .item .feature-img.custom-float {
+        float: none;
+    }
+    .seo-features .item .title.custom-float {
+        float: left;
+        width: 100%;
+        margin-top: 50px;
+    }
+    .responsive-purpose {
+        position: relative;
+        top: 50px;
+    }
+    .seo-testimonials .bro-seo-slider .carousel-caption p {
+        min-height: 216px;
+    }
+    .seo-plans .plan-block {
+        width: 100%;
+    }
+    .seo-casestudies .title p {
+        margin: 10px;
+    }
+    .seo-casestudies .item img {
+        width: 100%;
+        height: auto;
+    }
+    .seo-casestudies .item .title-item {
+        text-align: left;
+        margin-left: 20px;
+        margin-top: 25px;
+        display: inline-block;
+        margin-bottom: 25px;
+    }
+    .seo-footer-paragraph {
+        font-size: 16px;
+    }
+    .seo-header .custom-responsive-btn {
+        float: right;
+        border: 2px solid #fff;
+        margin-top: 6px;
+    }
+    .seo-header .responsive-btn {
+        color: #fff;
+    }
+    .seo-header .custom-hr {
+        margin: 30px auto 0;
+    }
+    .seo-header nav .menu-items {
+        float: none;
+        margin-top: 20px;
+        background: #333;
+    }
+    .seo-header nav .menu-items .menu-list li {
+        margin: 15px 15px 0;
+    }
+    .seo-header nav .menu-items .menu-list .active a {
+        border-bottom: none;
+    }
+    .seo-header nav .menu-items .menu-list li .nav-link {
+        height: auto;
+    }
+    .seo-header nav .menu-items .menu-list li .nav-link:hover {
+        border-bottom: 0;
+    }
+    .seo-header nav .quote {
+        display: block;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .seo-header nav .quote:hover {
+        background: rgb(41, 41, 41);
+    }
+    .information-seo .sub {
+        display: inline-block;
+        margin: 10px 0;
+        width: 100%;
+        text-align: center;
+    }
+    .information-seo .socialmedia {
+        margin: 0 auto;
+        padding: 0;
+        float: none;
+        text-align: center;
+        display: inline-block;
+        width: 100%
+    }
+    .information-seo .socialmedia li {
+        display: inline-block;
+        float: none;
+        margin: 0 auto;
+        padding-top: 11px;
+        text-align: center;
+        border-right: 0;
+    }
+    .seo-header nav .quote {
+        display: inline-block;
+        margin: 10px;
+    }
+    /* Design */
+    .design-header .responsive-btn {
+        color: #fff;
+    }
+    .design-header .design-nav .quote {
+        margin-top: 20px;
+        display: block;
+        text-align: center;
+    }
+    .design-header .broh-intro {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .design-header {
+        height: 700px;
+    }
+    .design-portfolio .bro-button-group button {
+        margin: 2px 0;
+    }
+    .design-portfolio .element-item {
+        width: 100%;
+    }
+    .design-portfolio .element-item img {
+        width: 100%;
+        height: 320px;
+    }
+    .design-applications .items .item {
+        width: 100%;
+        margin: 5px 0;
+    }
+    .design-applications .items .item .discount,
+    .design-applications .items .item .trend {
+        top: 35px;
+    }
+    .design-team .items .item {
+        width: 100%;
+        margin: 10px 0;
+    }
+    /* Portfolio */
+    .design-body {
+        padding: 0 20px;
+    }
+    .design-body .boxed-layout {
+        margin: 20px 0;
+    }
+    .portfolio-header .logo {
+        margin: 20px auto 0;
+    }
+    .portfolio-header .custom-responsive-btn {
+        margin: 10px auto;
+        text-align: center;
+    }
+    .portfolio-header .custom-responsive-btn .responsive-btn {
+        color: #333;
+    }
+    .portfolio-header .menu-items .quote {
+        margin-top: 20px;
+        display: inline-block;
+    }
+    .portfolio-header .featured-image {
+        height: auto;
+    }
+    /* Portfolio Item */
+    .portfolio-item-body .boxed-layout {
+        margin: 20px auto !important;
+    }
+    .portfolio-item-header .quote {
+        margin-bottom: 20px;
+    }
+    .portfolio-item-header .logo {
+        margin: 4px auto 0;
+    }
+    .portfolio-item-info .item {
+        display: block;
+        margin: 5px 0;
+        float: left;
+        width: 100%;
+        text-align: left;
+    }
+    .portfolio-item-info p {
+        margin: 30px auto 0;
+        text-align: left;
+        width: 100%;
+        display: inline-block;
+    }
+    .portfolio-item-related {
+        margin-bottom: 0;
+    }
+    .portfolio-item-info .element-item {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .portfolio-item-info .element-item img {
+        width: 100%;
+    }
+    /* Application */
+    .application-header .iphone-mockup {
+        display: none;
+    }
+    .application-header .intro {
+        width: 100%;
+        margin-top: 100px;
+    }
+    .app-about .features .item {
+        margin: 7px 0;
+        width: 100%;
+    }
+    .app-about {
+        height: 100%;
+    }
+    .app-features .features .item .text,
+    .app-features .features .item img {
+        width: 100%;
+        margin: 10px 0;
+    }
+    .app-features .features .custom-float .text {
+        padding-left: 0;
+    }
+    .app-screenshots .screens .screen-bg {
+        margin: 5px 0;
+    }
+    .app-pricing-tables .plan {
+        width: 100%;
+    }
+    .app-faq .bg .elements,
+    .app-contact form {
+        width: 94%;
+    }
+    .app-screenshots .title h1 {
+        margin: 0 13px;
+        line-height: 60px
+    }
+    /* Support */
+    .support-header .support-nav .menu-items {
+        background: #fff;
+        z-index: 999999;
+        padding: 20px;
+        text-align: left;
+    }
+    .support-header .support-nav .menu-items .menu-list {
+        margin: 0;
+        text-align: left;
+    }
+    .support-header .liveChat {
+        margin-top: 5px;
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+    }
+    .support-intro form .submit,
+    .support-intro form .search {
+        width: 100%;
+    }
+    .support-wp img {
+        display: none;
+    }
+    .support-wp .support-faq {
+        width: 100%;
+        margin-top: 0;
+    }
+    /* Domain */
+    .domain-header .domains-nav {
+        z-index: 99999999;
+    }
+    .domain-header .domains-nav .account-btn,
+    .domain-header .domains-nav .liveChat {
+        width: 100%;
+        margin: 10px 0;
+        display: block;
+    }
+    .domain-header .domain-intro form .submit,
+    .domain-features .item,
+    .domain-header .domain-intro form .search {
+        width: 100%;
+    }
+    .domain-features .item {
+        margin: 30px 0;
+    }
+    .domains-price {
+        padding-top: 290px;
+    }
+    /* Crypto */
+    .crypto-header .crypto-nav .menu-items {
+        background: #fff;
+        z-index: 999999;
+        padding: 20px;
+        text-align: left;
+    }
+    .crypto-header .crypto-nav .menu-items .nav-link {
+        color: #7e7e7e !important;
+        text-align: left;
+    }
+    .crypto-header .crypto-nav .quote {
+        color: #333;
+        border: 2px solid #333;
+        margin-top: 15px;
+        display: inline-block;
+        text-align: center;
+    }
+    .crypto-header .crypto-nav .quote:hover {
+        color: #fff;
+    }
+    .crypto-about .features,
+    .crypto-about .video-frame,
+    .whyus .crypt-tabs,
+    .whyus .cryption-tabs-list,
+    .whyus .tab-pane img,
+    .crypto-blog .item {
+        width: 100%;
+    }
+    .crypto-blog .item {
+        margin: 10px 0;
+    }
+    .crypto-about .features .item h3 {
+        font-size: 16px;
+    }
+    .crypto-pricing .table-bro-crypto {
+        display: block;
+    }
+    .cry-partners {
+        margin-bottom: 50px;
+    }
+    .crypto-header .crypro-carousel .carousel-caption h5 {
+        margin: 0 6px;
+        font-size: 34px;
+    }
+    /* Shortcodes */
+    .carousel-items-bro-sc .carousel-item-height {
+        height: 300px;
+    }
+    .counter-item .counter-block {
+        margin: 25px;
+    }
+    .nav-bro-sc-v-tabs {
+        float: none;
+        margin-right: 0;
+        border-right: none;
+        padding-right: 0;
+    }
+    .btn-collapse {
+        margin: 4px 0;
+    }
+    /* Contact */
+    .contact-body {
+        padding: 0 20px;
+    }
+    .contact-body .boxed-layout {
+        margin: 20px 0;
+    }
+    .form-contact {
+        margin-top: 100px;
+    }
+    /* Error */
+    .error-body {
+        padding: 0 20px;
+    }
+    .error-body .boxed-layout {
+        margin: 20px 0;
+    }
+}
+
+/* Tablet Devices */
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    /* Hosting */
+    .hosting-header .server-builder {
+        padding: 30px 0;
+    }
+    .hosting-support .support-img {
+        height: 90px;
+        margin-right: 30px;
+        float: left;
+        display: inline-block;
+    }
+    .hosting-support .title {
+        display: inline-block;
+        width: 84%;
+    }
+    .hosting-features .tab-content {
+        margin-left: 228px;
+    }
+    .hosting-features .tab-content .block {
+        min-height: 316px;
+    }
+    /* SEO */
+    .seo-header {
+        height: auto;
+    }
+    .seo-header .intro .plan .block {
+        width: 200px;
+        margin: 0 0 40px;
+    }
+    .seo-partners img {
+        margin: 15px;
+    }
+    .seo-features .item .title {
+        width: 40%;
+    }
+    .seo-features .item .title.custom-float {
+        width: 40%;
+    }
+    .seo-header nav .menu-items {
+        float: none;
+    }
+    .seo-header nav .menu-items .menu-list {
+        margin-right: 0 !important;
+    }
+    .seo-header nav .menu-items .menu-list li {
+        margin: 10px 20px 0;
+    }
+    .seo-header nav .menu-items .menu-list .active a,
+    .seo-header nav .menu-items .menu-list li .nav-link:hover {
+        border-bottom: 0;
+    }
+    .seo-header nav .menu-items .menu-list li .nav-link {
+        height: auto;
+    }
+    .seo-header nav .menu-items {
+        float: none;
+        background: #333;
+        margin-top: 20px;
+    }
+    .seo-header nav .quote {
+        margin: 24px 15px;
+        display: inline-block;
+    }
+    .seo-header .intro .plan .block h3 {
+        margin: 15px 0;
+    }
+    .design-header .custom-responsive-btn {
+        border: 2px solid #fff;
+        float: right;
+    }
+    .design-header .responsive-btn {
+        color: #fff;
+    }
+    .seo-header .custom-hr {
+        margin: 20px 0;
+    }
+    /* Design */
+    .design-header .design-nav .quote {
+        margin-top: 20px;
+        display: block;
+        text-align: center;
+    }
+    .design-header .broh-intro {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .design-header {
+        height: 700px;
+    }
+    .design-portfolio .element-item {
+        width: 50%;
+    }
+    .design-portfolio .element-item img {
+        width: 100%;
+        height: 320px;
+    }
+    .design-applications .items .item {
+        width: 18.5%;
+        margin: 5px;
+    }
+    .design-team .items .item {
+        width: 47%;
+        margin: 10px;
+    }
+    /* Portfolio */
+    .portfolio-header .logo {
+        margin: 20px auto 0;
+    }
+    .portfolio-header .custom-responsive-btn {
+        margin: 10px auto;
+        text-align: center;
+    }
+    .portfolio-header .custom-responsive-btn .responsive-btn {
+        color: #333;
+    }
+    .portfolio-header .menu-items .quote {
+        margin-top: 20px;
+        display: inline-block;
+    }
+    /* Applications */
+    .application-header .responsive-btn {
+        color: #333;
+    }
+    .application-header .intro {
+        width: 100%;
+        margin-top: 150px;
+    }
+    .application-header .iphone-mockup {
+        display: none;
+    }
+    .app-about {
+        height: 100%;
+    }
+    .app-about .features .item {
+        width: 31.9%;
+    }
+    .app-faq .bg .elements,
+    .app-contact form {
+        width: 94%;
+    }
+    .app-pricing-tables .plan {
+        width: 32%;
+    }
+    .app-screenshots .screens .screen-bg {
+        margin: 5px;
+    }
+    .app-features .features .item img {
+        width: 50%;
+    }
+    /* Support */
+    .support-header .support-nav .menu-items {
+        background: #fff;
+        z-index: 999999;
+        padding: 20px;
+        text-align: left;
+    }
+    .support-header .support-nav .menu-items .menu-list {
+        margin: 0;
+        text-align: left;
+    }
+    .support-intro form .search {
+        min-width: 278px;
+    }
+    .support-dom img {
+        width: 350px !important;
+    }
+    /* Domain */
+    .domain-header .domains-nav {
+        z-index: 99999999;
+    }
+    .domain-header .domains-nav .account-btn,
+    .domain-header .domains-nav .liveChat {
+        width: 100%;
+        margin: 10px 0;
+        display: block;
+    }
+    .domain-header .domain-intro form .submit,
+    .domain-header .domain-intro form .search {
+        width: 100%;
+    }
+    .domain-features .item {
+        width: 50%;
+    }
+    .domain-features .item {
+        margin: 30px 0;
+    }
+    /* Crypto */
+    .crypto-header .crypto-nav .menu-items {
+        background: #fff;
+        z-index: 999999;
+        padding: 20px;
+        text-align: left;
+    }
+    .crypto-header .crypto-nav .menu-items .nav-link {
+        color: #7e7e7e !important;
+        text-align: left;
+    }
+    .crypto-header .crypto-nav .quote {
+        color: #333;
+        border: 2px solid #333;
+        margin-top: 15px;
+        display: inline-block;
+        text-align: center;
+    }
+    .crypto-header .crypto-nav .quote:hover {
+        color: #fff;
+    }
+    .whyus .crypt-tabs {
+        width: 100%;
+    }
+    .crypto-blog .item {
+        width: 23%;
+    }
+    /* Shortcodes */
+    .counter-item .counter-block {
+        margin: 25px;
+    }
+}
+
+/* Custom Elements */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .hosting-header .dropdown {
+        margin: 20px auto;
+    }
+    .hosting-header nav .support {
+        margin-left: 0;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+    .seo-header .intro .plan .block {
+        width: 220px;
+    }
+    .seo-partners img {
+        margin: 15px;
+    }
+    .design-team .items .item {
+        width: 46%;
+        margin: 10px;
+    }
+    .app-features .features .item img {
+        width: 50%;
+    }
+    .domain-features .item {
+        width: 21%;
+        margin: 0 13px
+    }
+    .crypto-blog .item {
+        width: 22%;
+    }
+}

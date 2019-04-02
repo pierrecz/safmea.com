@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="745px" height="211px" viewBox="0 0 745 211" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="745" height="211"></rect>
+        <linearGradient x1="0%" y1="48.7729669%" x2="100%" y2="48.7729669%" id="linearGradient-3">
+            <stop stop-color="#ED4264" offset="0%"></stop>
+            <stop stop-color="#FFEDBC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="illustration">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle"></g>
+            <path d="M0,153 C118.833333,153 136.916667,50 217.218927,50 C278.253238,50 322.916667,150.425 434,153 L0,153 Z" id="Path-2-Copy-2" fill="url(#linearGradient-3)" opacity="0.791723279" mask="url(#mask-2)"></path>
+            <path d="M326,211 C409.677686,211 445.055359,152 507.034483,152 C559.720433,152 602.724138,203.304348 701,211 L326,211 Z" id="Path-2-Copy" fill="#2C2C2C" mask="url(#mask-2)" transform="translate(513.500000, 181.500000) scale(1, -1) translate(-513.500000, -181.500000) "></path>
+            <path d="M199,153 C338.68595,153 408.536182,-8.2080176e-14 512,-8.52651283e-14 C599.950413,-8.52651283e-14 672.380165,153 825,153 L199,153 Z" id="Path-2" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

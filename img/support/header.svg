@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="743px" height="419px" viewBox="0 0 743 419" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9AFCFF" offset="0%"></stop>
+            <stop stop-color="#2FE0F1" offset="51.8528923%"></stop>
+            <stop stop-color="#06CBDE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="743" height="419"></rect>
+        <filter x="-18.2%" y="-18.2%" width="136.3%" height="136.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="7.08147321" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <use id="Rectangle" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+            <circle id="Oval" fill="url(#linearGradient-1)" filter="url(#filter-4)" mask="url(#mask-3)" cx="107.5" cy="89.5" r="58.5"></circle>
+            <g id="Group-2" mask="url(#mask-3)" stroke="#FFFFFF" stroke-width="3">
+                <g transform="translate(217.000000, 274.000000)" id="Rectangle-4">
+                    <rect opacity="0.200000018" x="61.5" y="61.5" width="186" height="186" rx="93"></rect>
+                    <rect opacity="0.200000018" x="31.5" y="31.5" width="247" height="247" rx="123.5"></rect>
+                    <rect opacity="0.100000001" x="1.5" y="1.5" width="307" height="307" rx="153.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
