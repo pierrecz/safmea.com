@@ -1,6 +1,15 @@
 <?php
 //JSON ffsdsdv 
 
+$myObj->name = "John";
+$myObj->age = 30;
+$myObj->city = "New York";
+
+$myJSON = json_encode($myObj);
+
+echo $myJSON;
+
+
 //pro práci s předanými parametry pro název parametru
 $nazevParametruID = $_GET["p"];
 switch ($nazevParametruID) {
@@ -13,6 +22,7 @@ switch ($nazevParametruID) {
     case "3":
         echo "i equals 2";
         break;
+    }
 
 //pro práci s předanými parametry pro název tlačítka další
 $nazevDalsiID = $_GET["d"];
